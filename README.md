@@ -8,5 +8,5 @@ The Alfred 2 workflow, shows the current track playing on Radio Ice. http://radi
 [DOWNLOAD](http://take.ms/g4swf)
 
 --
-Sincerly your,<br>
+Sincerly yours,<br>
 Almas Adilbek
